@@ -1,0 +1,318 @@
+[
+	{
+		"name": "again&again",
+		"keys": ["again"],
+		"filename": "again&again.txt"
+	},
+	{
+		"name": "almost forgot",
+		"keys": [
+			"almost",
+			"forgot"
+		],
+		"filename": "Almost Forgot.txt"
+	},
+	{
+		"name": "another you another way",
+		"keys": [
+			"another"
+		],
+		"filename": "Another You Another Way.txt"
+	},
+	{
+		"name": "blindfolded",
+		"keys": [],
+		"filename": "blindfolded.txt"
+	},
+	{
+		"name": "blood like gasoline",
+		"keys": [
+			"blood",
+			"gasoline"
+		],
+		"filename": "Blood Like Gasoline.txt"
+	},
+	{
+		"name": "brighter",
+		"keys": [],
+		"filename": "Brighter.txt"
+	},
+	{
+		"name": "burn it down",
+		"keys": [
+			"down",
+			"burn"
+		],
+		"filename": "burn it down.txt"
+	},
+	{
+		"name": "chasing ghosts",
+		"keys": [
+			"chasing",
+			"ghosts"
+		],
+		"filename": "Chasing Ghosts.txt"
+	},
+	{
+		"name": "closer, faster",
+		"keys": [
+			"closer",
+			"faster"
+		],
+		"filename": "Closer, Faster.txt"
+	},
+	{
+		"name": "come alive",
+		"keys": [
+			"alive"
+		],
+		"filename": "Come Alive.txt"
+	},
+	{
+		"name": "comeback kid",
+		"keys": [
+			"comeback",
+			"kid"
+		],
+		"filename": "Comeback Kid.txt"
+	},
+	{
+		"name": "demons",
+		"keys": [],
+		"filename": "Demons.txt"
+	},
+	{
+		"name": "dreaming alone",
+		"keys": [
+			"dreaming",
+			"alone"
+		],
+		"filename": "Dreaming Alone.txt"
+	},
+	{
+		"name": "eyes like guns",
+		"keys": [
+			"eyes",
+			"guns"
+		],
+		"filename": "Eyes Like Guns.txt"
+	},
+	{
+		"name": "fireproof",
+		"keys": [],
+		"filename": "Fireproof.txt"
+	},
+	{
+		"name": "forget me now",
+		"keys": [
+			"forget"
+		],
+		"filename": "Forget Me Now.txt"
+	},
+	{
+		"name": "friendly reminder",
+		"keys": [
+			"friendly",
+			"reminder"
+		],
+		"filename": "Friendly Reminder.txt"
+	},
+	{
+		"name": "gravity",
+		"keys": [],
+		"filename": "Gravity.txt"
+	},
+	{
+		"name": "guessing",
+		"keys": [],
+		"filename": "Guessing.txt"
+	},
+	{
+		"name": "i like the way",
+		"keys": [],
+		"filename": "I Like The Way.txt"
+	},
+	{
+		"name": "in our bones",
+		"keys": [
+			"bones"
+		],
+		"filename": "In Our Bones.txt"
+	},
+	{
+		"name": "infinity",
+		"keys": [],
+		"filename": "Infinity.txt"
+	},
+	{
+		"name": "jump",
+		"keys": [],
+		"filename": "jump.txt"
+	},
+	{
+		"name": "legends never die",
+		"keys": [
+			"die",
+			"legends",
+			"never"
+		],
+		"filename": "Legends Never Die.txt"
+	},
+	{
+		"name": "lullaby",
+		"keys": [],
+		"filename": "lullaby.txt"
+	},
+	{
+		"name": "niji",
+		"keys": [],
+		"filename": "Niji.txt"
+	},
+	{
+		"name": "one more weekend",
+		"keys": [
+			"weekend"
+		],
+		"filename": "One More Weekend.txt"
+	},
+	{
+		"name": "outsiders",
+		"keys": [],
+		"filename": "Outsiders.txt"
+	},
+	{
+		"name": "p.a.t.t.",
+		"keys": [],
+		"filename": "P.A.T.T..txt"
+	},
+	{
+		"name": "paralyzed",
+		"keys": [],
+		"filename": "Paralyzed.txt"
+	},
+	{
+		"name": "personal",
+		"keys": [],
+		"filename": "Personal.txt"
+	},
+	{
+		"name": "roses",
+		"keys": [],
+		"filename": "Roses.txt"
+	},
+	{
+		"name": "runaway",
+		"keys": [],
+		"filename": "Runaway.txt"
+	},
+	{
+		"name": "running with the wild things",
+		"keys": [
+			"wild",
+			"running",
+			"things"
+		],
+		"filename": "Running With The Wild Things.txt"
+	},
+	{
+		"name": "scream",
+		"keys": [],
+		"filename": "Scream.txt"
+	},
+	{
+		"name": "shatter",
+		"keys": [],
+		"filename": "shatter.txt"
+	},
+	{
+		"name": "something you need",
+		"keys": [
+			"need",
+			"something"
+		],
+		"filename": "Something You Need.txt"
+	},
+	{
+		"name": "steal the night",
+		"keys": [
+			"night",
+			"steal"
+		],
+		"filename": "Steal The Night.txt"
+	},
+	{
+		"name": "strangers again",
+		"keys": [
+			"again",
+			"strangers"
+		],
+		"filename": "Strangers Again.txt"
+	},
+	{
+		"name": "sweet surrender",
+		"keys": [
+			"surrender",
+			"sweet"
+		],
+		"filename": "Sweet Surrender.txt"
+	},
+	{
+		"name": "talk",
+		"keys": [],
+		"filename": "Talk.txt"
+	},
+	{
+		"name": "that won't save us",
+		"keys": [
+			"us",
+			"save",
+			"wont"
+		],
+		"filename": "that won't save us.txt"
+	},
+	{
+		"name": "the fuss",
+		"keys": [
+			"fuss"
+		],
+		"filename": "The Fuss.txt"
+	},
+	{
+		"name": "thinking",
+		"keys": [],
+		"filename": "Thinking.txt"
+	},
+	{
+		"name": "voices",
+		"keys": [],
+		"filename": "Voices.txt"
+	},
+	{
+		"name": "wasteland",
+		"keys": [],
+		"filename": "Wasteland.txt"
+	},
+	{
+		"name": "weapon",
+		"keys": [],
+		"filename": "weapon.txt"
+	},
+	{
+		"name": "wildfire",
+		"keys": [],
+		"filename": "Wildfire.txt"
+	},
+	{
+		"name": "young & relentless",
+		"keys": [
+			"relentless",
+			"young"
+		],
+		"filename": "Young & Relentless.txt"
+	},
+	{
+		"name": "zombie",
+		"keys": [],
+		"filename": "Zombie.txt"
+	}
+]

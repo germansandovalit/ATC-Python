@@ -1,0 +1,42 @@
+Voices
+  Talk
+  weapon
+    Sweet Surrender
+TWSU
+  (Talk)
+P.A.T.T
+  (Talk)
+Personal
+  (Talk)
+  (Scream)
+Forget Me Now
+  (Talk)
+Blood Like Gasoline
+  Scream
+Comeback Kid
+  jump
+    Runaway
+Friendly Reminder
+  Wasteland
+Gravity
+  shatter
+In Our Bones
+  Wildfire
+Paralyzed
+  (Scream)
+  (Voices)
+  Demons
+Something You Need
+  lullaby
+	(Scream)
+Steal The Night
+  (Voices)
+  (Scream)
+Zombie
+  (Scream)
+Burn it Down
+  (Paralyzed)
+Legends Never Die
+  (Talk)
+Outsiders
+  (Talk)
