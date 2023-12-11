@@ -11,6 +11,7 @@ def get_json_of_songs():
 
 def nospecial(text):
   text = re.sub("[^a-zA-Z ]+", "", text).lower()
+  text = text.replace(" ", "")
   return text
   
 
@@ -69,6 +70,7 @@ def main():
         songs_but_the_actual = list(filter(lambda x : x != song["name"] , songs))
         lyrics = open(f"{LYRICS_PATH}{data['filename']}").read()
         lyrics = nospecial(lyrics)
+        #print(lyrics)
         song["references"] = list(filter(bool, (map(lambda x : x if x in lyrics else False, songs_but_the_actual))))
         song["looselyReferences"] = get_loosely_references(json_list, lyrics, song["name"])
         if len(song["references"]) > 0:
